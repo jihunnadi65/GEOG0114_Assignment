@@ -1,0 +1,24 @@
+주택 및 가구 총수
+주택의 종류, 건축 방법, 건축 시기, 건물의 구조, 층수
+주택 규모
+주택 시설
+부후 파손의 유무
+거주 가구가 없는 주택
+호수
+가구형, 가족유형, 가구인원
+가계를 주로 지지하는 자와 주거
+통근 시간
+아이가 있는 가구의 상황
+가구의 주거 이동
+거주 밀도
+거주 수준
+노인 가구 상황
+노인 가구가 있는 가구의 상황
+
+Proportion of Population Over 65 in the Administrative Area
+Birth Rate in the Administrative Area
+Population Density of the Administrative Area
+Home Ownership Rate in the Admininstrative Area
+Proportion of Traditional Housing in the Admininstrative Area
+Disaster Occurence in the Past 5 Years in the Admininstrative Area
+Active Job Openings-to-Applicants Ratio (times) in the Administrative Area
